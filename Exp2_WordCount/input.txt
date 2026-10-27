@@ -1,0 +1,4 @@
+Big data is large and complex data
+Hadoop stores big data in HDFS
+MapReduce processes big data in parallel
+Hadoop is open source and Hadoop is scalable
